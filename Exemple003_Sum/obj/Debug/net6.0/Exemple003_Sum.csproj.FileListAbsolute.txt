@@ -1,0 +1,15 @@
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.exe
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.deps.json
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.runtimeconfig.json
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.dll
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.pdb
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.AssemblyInfoInputs.cache
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.AssemblyInfo.cs
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.dll
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\obj\Debug\net6.0\refint\Exemple003_Sum.dll
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.pdb
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.genruntimeconfig.cache
+C:\Users\roman\OneDrive\Рабочий стол\Exemple001\Exemple003_Sum\obj\Debug\net6.0\ref\Exemple003_Sum.dll
